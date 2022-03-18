@@ -16,7 +16,7 @@ class CheckEvenOdd
     if ( num % 2 == 0 )
 
 <<<<<<< HEAD
-int num;
+int num;scefcf
     System.out.println("Enter an Integer number:");
 
     //The input provided by user is stored in num
