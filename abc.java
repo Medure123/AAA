@@ -15,3 +15,4 @@ class CheckEvenOdd
      * else odd number*/
     if ( num % 2 == 0 )
 Sai Charan
+Ajay
